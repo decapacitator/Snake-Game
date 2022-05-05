@@ -4,6 +4,8 @@ Re-creation of the age old, simple &amp; fun snake game :)
 
 [Snake Game.zip](https://github.com/decapacitator/Snake-Game/files/8633276/Snake.Game.zip)
 
+/*
+
 #include <iostream>
 #include <conio.h>
 #include <windows.h>
@@ -172,4 +174,4 @@ int main()
     return 0;
 }
     
-   
+*/
